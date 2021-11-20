@@ -2,3 +2,4 @@ README.md
 /target
 .settings/
 .classpath
+.project
